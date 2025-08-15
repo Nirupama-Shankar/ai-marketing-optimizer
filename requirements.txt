@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+stable-diffusion
+openai
+ray
+flask
+plotly
